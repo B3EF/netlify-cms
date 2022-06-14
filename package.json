@@ -181,7 +181,7 @@
     "emotion": "^10.0.9",
     "eslint-config-prettier": "^7.0.0",
     "eslint-plugin-babel": "^5.3.0",
-    "lerna": "^3.15.0"
+    "lerna": "^5.1.2"
   },
   "husky": {
     "hooks": {
