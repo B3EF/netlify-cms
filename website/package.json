@@ -27,7 +27,7 @@
     "gatsby-remark-autolink-headers": "2.7.0",
     "gatsby-remark-external-links": "^0.0.4",
     "gatsby-remark-prismjs": "3.9.0",
-    "gatsby-source-filesystem": "2.7.0",
+    "gatsby-source-filesystem": "4.21.0",
     "gatsby-transformer-json": "2.7.0",
     "gatsby-transformer-remark": "2.12.0",
     "gatsby-transformer-yaml": "2.7.0",
